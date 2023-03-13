@@ -1,0 +1,14 @@
+.user {
+  background-color: rgb(183, 246, 225);
+  border-radius: 10px;
+  margin: 10px 0;
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.user span {
+  font-size: 23px;
+  color: rgb(43, 42, 42);
+}
