@@ -119,3 +119,5 @@ export default DeleteAllUsers;
 In this example, we use the useDispatch hook to get a reference to the Redux dispatch function, and we use it to dispatch the removeAllUser action when the user clicks a button.
 
 And that's it! With these steps, you should now have a basic understanding of how to implement Redux Toolkit in your React application.
+
+#### Demo: https://redux-simplified.netlify.app/
